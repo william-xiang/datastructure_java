@@ -1,2 +1,2 @@
-# algorithm
-Algorithm implementations using Java.
+# data structure
+data structure implementations using Java.
